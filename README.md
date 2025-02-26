@@ -1,10 +1,4 @@
-Upon reviewing the repository [Rohit-Madhesiya/LangChain_components_and_its_implementations](https://github.com/Rohit-Madhesiya/LangChain_components_and_its_implementations), I have prepared a comprehensive README file that serves as a tutorial for LangChain and its components. This README includes hyperlinks to relevant sections and directories within the repository, providing a structured guide for users.
-
-**Note:** The current README file in the repository is minimal, containing only the title. The proposed README below offers a detailed tutorial aligned with the repository's structure and content.
-
----
-
-# LangChain Components and Implementations Tutorial
+# LangChain Components and Implementations
 
 ## Overview
 
